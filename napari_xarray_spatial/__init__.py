@@ -7,5 +7,4 @@ except ImportError:
 
 
 
-from ._dock_widget import napari_experimental_provide_dock_widget
-from ._function import napari_experimental_provide_function
+from .MultispectralSpatialFunctions import napari_experimental_provide_dock_widget
