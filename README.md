@@ -1,10 +1,10 @@
 # napari-xarray-spatial
 
-[![License](https://img.shields.io/pypi/l/napari-xarray-spatial.svg?color=green)](https://github.com/DragaDoncila/napari-xarray-spatial/raw/master/LICENSE)
+[![License](https://img.shields.io/pypi/l/napari-xarray-spatial.svg?color=green)](https://github.com/makepath/napari-xarray-spatial/raw/master/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-xarray-spatial.svg?color=green)](https://pypi.org/project/napari-xarray-spatial)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-xarray-spatial.svg?color=green)](https://python.org)
-[![tests](https://github.com/DragaDoncila/napari-xarray-spatial/workflows/tests/badge.svg)](https://github.com/DragaDoncila/napari-xarray-spatial/actions)
-[![codecov](https://codecov.io/gh/DragaDoncila/napari-xarray-spatial/branch/master/graph/badge.svg)](https://codecov.io/gh/DragaDoncila/napari-xarray-spatial)
+[![tests](https://github.com/makepath/napari-xarray-spatial/workflows/tests/badge.svg)](https://github.com/makepath/napari-xarray-spatial/actions)
+[![codecov](https://codecov.io/gh/makepath/napari-xarray-spatial/branch/master/graph/badge.svg)](https://codecov.io/gh/makepath/napari-xarray-spatial)
 
 napari plugin providing interface to xarray-spatial functions
 
@@ -50,7 +50,7 @@ If you encounter any problems, please [file an issue] along with a detailed desc
 [Apache Software License 2.0]: http://www.apache.org/licenses/LICENSE-2.0
 [Mozilla Public License 2.0]: https://www.mozilla.org/media/MPL/2.0/index.txt
 [cookiecutter-napari-plugin]: https://github.com/napari/cookiecutter-napari-plugin
-[file an issue]: https://github.com/DragaDoncila/napari-xarray-spatial/issues
+[file an issue]: https://github.com/makepath/napari-xarray-spatial/issues
 [napari]: https://github.com/napari/napari
 [tox]: https://tox.readthedocs.io/en/latest/
 [pip]: https://pypi.org/project/pip/
